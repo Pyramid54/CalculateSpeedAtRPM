@@ -5,6 +5,5 @@ May have minor rounding errors. <br/>
 <br/>
 Follow instructions in the command prompt window when you run the .exe.<br/>
 <br/>
-Not vibe coded (hate the fact I have to mention this nowadays)
-<br/>
+Not vibe coded (hate the fact I have to mention this nowadays)<br/>
 .NET framework is not required.
